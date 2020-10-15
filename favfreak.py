@@ -86,7 +86,10 @@ if __name__ == "__main__":
         # add your fingerprints here :
         
         fingerprint = {
-
+            1274734426:"AWS S3",
+            391068172:"Bomgar Beyond Trust",
+            2066412882:"Ping Identity",
+            1003161184:"File Wave",
             99395752:"slack-instance",
             116323821:"spring-boot",
             81586312:"Jenkins",
